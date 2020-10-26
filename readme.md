@@ -3,4 +3,4 @@
 ###### This is an H6 header (smallest)
 ## Summary 
 
-This repository contains all of the notes taken by sawsan for the Lighthouse Labs Web Development Bootcamp.
+this repository contains all the notes taken by [sawsan](https://github.com/sawsanCS) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) web development bootcamp.
